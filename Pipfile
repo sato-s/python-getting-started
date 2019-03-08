@@ -9,6 +9,7 @@ verify_ssl = true
 django = "*"
 gunicorn = "*"
 django-heroku = "*"
+django-q = {git = "https://github.com/codeSamuraii/django-q.git",ref = "869bc7e75338d5bbeeb3323501ad612fa6b15daf"}
 
 
 [requires]
